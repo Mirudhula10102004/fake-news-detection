@@ -7,4 +7,4 @@ Built in Jupyter Notebook.
 Open `fake_news_detection.ipynb` in Jupyter Notebook or Google Colab.
 
 ## Author
-Your Name
+Mirudhula K
